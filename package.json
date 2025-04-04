@@ -1,0 +1,24 @@
+{
+  "name": "week-10---middleware-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermakusum593/Week-10---Middleware-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermakusum593/Week-10---Middleware-/issues"
+  },
+  "homepage": "https://github.com/vermakusum593/Week-10---Middleware-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
